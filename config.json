@@ -87,8 +87,7 @@
             "score": 123,
             "dependencies": [
                 "subtask_1",
-                "subtask_2",
-                "123"
+                "subtask_2"
             ]
         }
     ],
