@@ -75,7 +75,7 @@
         },
         {
             "name": "subtask_2",
-            "description": "두 번째 서브태스크입니다. A, B \u003c= 5인 데이터만 존재합니다.",
+            "description": "두 번째 서브태스크입니다. A, B <= 5인 데이터만 존재합니다.",
             "score": 90,
             "dependencies": [
                 "subtask_1"
@@ -87,7 +87,8 @@
             "score": 123,
             "dependencies": [
                 "subtask_1",
-                "subtask_2"
+                "subtask_2",
+                "123"
             ]
         }
     ],
