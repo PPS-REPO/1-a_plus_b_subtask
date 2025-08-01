@@ -84,7 +84,7 @@
         {
             "name": "else",
             "description": "세 번째 서브태스크입니다. 그 외 추가 제약이 없는 데이터만 존재합니다.",
-            "score": 123,
+            "score": 12399,
             "dependencies": [
                 "subtask_1",
                 "subtask_2"
